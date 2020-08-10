@@ -21,7 +21,7 @@ import com.ly.hellobinder.server.StudentManager;
 import java.util.List;
 
 /**
- * CLIENT
+ * 客户端
  */
 public class MainActivity extends AppCompatActivity {
 
